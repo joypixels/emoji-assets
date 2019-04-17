@@ -1,8 +1,10 @@
 {
-  "name": "emojione/assets",
+  "name": "joypixels/assets",
   "type": "library",
-  "description": "Emojis in png format brought to you by EmojiOne. EmojiOne is a complete set of emojis designed for the web.",
+  "description": "Emoji in png format brought to you by JoyPixels. JoyPixels is a complete set of emojis designed for the web.",
   "keywords": [
+    "joypixels",
+    "JoyPixels",
     "emojione",
     "EmojiOne",
     "emoji",
@@ -12,9 +14,9 @@
     "smilies",
     "unicode"
   ],
-  "homepage": "https://www.emojione.com",
+  "homepage": "https://www.joypixels.com",
   "license": "proprietary",
   "suggest": {
-    "emojione/emojione": "A set of libraries to make using emoji on your websites easier."
+    "joypixels/emoji-toolkit": "A set of libraries to make using emoji on your websites easier."
   }
 }

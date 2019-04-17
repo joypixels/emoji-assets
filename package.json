@@ -1,8 +1,10 @@
 {
-  "name": "emojione-assets",
-  "description": "Emojis in png format brought to you by EmojiOne. EmojiOne is a complete set of emojis designed for the web.",
-  "version": "4.5.0",
+  "name": "emoji-assets",
+  "description": "Emoji in png format brought to you by JoyPixels (formerly EmojiOne). JoyPixels is a complete set of emoji designed for the web.",
+  "version": "4.5.1",
   "keywords": [
+    "joypixels",
+    "JoyPixels",
     "emojione",
     "EmojiOne",
     "emoji",
@@ -18,11 +20,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emojione/emojione-assets.git"
+    "url": "git+https://github.com/joypixels/emoji-assets.git"
   },
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
-    "url": "https://github.com/emojione/emojione-assets/issues"
+    "url": "https://github.com/joypixels/emoji-assets/issues"
   },
-  "homepage": "https//www.emojione.com"
+  "homepage": "https//www.joypixels.com"
 }
