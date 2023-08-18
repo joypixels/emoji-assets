@@ -18,7 +18,7 @@
 {
     .joypixels-24-people {
         background-image: url(joypixels-sprite-24-people@2x.png);
-        background-size: 12174px 24px;
+        background-size: 12249px 24px;
     }
 }
 
@@ -1436,53 +1436,62 @@
 .joypixels-24-people._1fae6 {
     background-position: -11750px 0px;
 }
-.joypixels-24-people._1faf0 {
+.joypixels-24-people._1fae8 {
     background-position: -11775px 0px;
 }
-.joypixels-24-people._1faf1 {
+.joypixels-24-people._1faf0 {
     background-position: -11800px 0px;
 }
-.joypixels-24-people._1faf2 {
+.joypixels-24-people._1faf1 {
     background-position: -11825px 0px;
 }
-.joypixels-24-people._1faf3 {
+.joypixels-24-people._1faf2 {
     background-position: -11850px 0px;
 }
-.joypixels-24-people._1faf4 {
+.joypixels-24-people._1faf3 {
     background-position: -11875px 0px;
 }
-.joypixels-24-people._1faf5 {
+.joypixels-24-people._1faf4 {
     background-position: -11900px 0px;
 }
-.joypixels-24-people._1faf6 {
+.joypixels-24-people._1faf5 {
     background-position: -11925px 0px;
 }
-.joypixels-24-people._261d {
+.joypixels-24-people._1faf6 {
     background-position: -11950px 0px;
 }
-.joypixels-24-people._2620 {
+.joypixels-24-people._1faf7 {
     background-position: -11975px 0px;
 }
-.joypixels-24-people._2639 {
+.joypixels-24-people._1faf8 {
     background-position: -12000px 0px;
 }
-.joypixels-24-people._263a {
+.joypixels-24-people._261d {
     background-position: -12025px 0px;
 }
-.joypixels-24-people._26d1 {
+.joypixels-24-people._2620 {
     background-position: -12050px 0px;
 }
-.joypixels-24-people._270a {
+.joypixels-24-people._2639 {
     background-position: -12075px 0px;
 }
-.joypixels-24-people._270b {
+.joypixels-24-people._263a {
     background-position: -12100px 0px;
 }
-.joypixels-24-people._270c {
+.joypixels-24-people._26d1 {
     background-position: -12125px 0px;
 }
-.joypixels-24-people._270d {
+.joypixels-24-people._270a {
     background-position: -12150px 0px;
+}
+.joypixels-24-people._270b {
+    background-position: -12175px 0px;
+}
+.joypixels-24-people._270c {
+    background-position: -12200px 0px;
+}
+.joypixels-24-people._270d {
+    background-position: -12225px 0px;
 }
 
 .joypixels-24-nature {
@@ -1505,7 +1514,7 @@
 {
     .joypixels-24-nature {
         background-image: url(joypixels-sprite-24-nature@2x.png);
-        background-size: 5124px 24px;
+        background-size: 5299px 24px;
     }
 }
 
@@ -1783,347 +1792,368 @@
 .joypixels-24-nature._1f425 {
     background-position: -2250px 0px;
 }
-.joypixels-24-nature._1f426 {
+.joypixels-24-nature._1f426-2b1b {
     background-position: -2275px 0px;
 }
-.joypixels-24-nature._1f427 {
+.joypixels-24-nature._1f426 {
     background-position: -2300px 0px;
 }
-.joypixels-24-nature._1f428 {
+.joypixels-24-nature._1f427 {
     background-position: -2325px 0px;
 }
-.joypixels-24-nature._1f429 {
+.joypixels-24-nature._1f428 {
     background-position: -2350px 0px;
 }
-.joypixels-24-nature._1f42a {
+.joypixels-24-nature._1f429 {
     background-position: -2375px 0px;
 }
-.joypixels-24-nature._1f42b {
+.joypixels-24-nature._1f42a {
     background-position: -2400px 0px;
 }
-.joypixels-24-nature._1f42c {
+.joypixels-24-nature._1f42b {
     background-position: -2425px 0px;
 }
-.joypixels-24-nature._1f42d {
+.joypixels-24-nature._1f42c {
     background-position: -2450px 0px;
 }
-.joypixels-24-nature._1f42e {
+.joypixels-24-nature._1f42d {
     background-position: -2475px 0px;
 }
-.joypixels-24-nature._1f42f {
+.joypixels-24-nature._1f42e {
     background-position: -2500px 0px;
 }
-.joypixels-24-nature._1f430 {
+.joypixels-24-nature._1f42f {
     background-position: -2525px 0px;
 }
-.joypixels-24-nature._1f431 {
+.joypixels-24-nature._1f430 {
     background-position: -2550px 0px;
 }
-.joypixels-24-nature._1f432 {
+.joypixels-24-nature._1f431 {
     background-position: -2575px 0px;
 }
-.joypixels-24-nature._1f433 {
+.joypixels-24-nature._1f432 {
     background-position: -2600px 0px;
 }
-.joypixels-24-nature._1f434 {
+.joypixels-24-nature._1f433 {
     background-position: -2625px 0px;
 }
-.joypixels-24-nature._1f435 {
+.joypixels-24-nature._1f434 {
     background-position: -2650px 0px;
 }
-.joypixels-24-nature._1f436 {
+.joypixels-24-nature._1f435 {
     background-position: -2675px 0px;
 }
-.joypixels-24-nature._1f437 {
+.joypixels-24-nature._1f436 {
     background-position: -2700px 0px;
 }
-.joypixels-24-nature._1f438 {
+.joypixels-24-nature._1f437 {
     background-position: -2725px 0px;
 }
-.joypixels-24-nature._1f439 {
+.joypixels-24-nature._1f438 {
     background-position: -2750px 0px;
 }
-.joypixels-24-nature._1f43a {
+.joypixels-24-nature._1f439 {
     background-position: -2775px 0px;
 }
-.joypixels-24-nature._1f43b-2744 {
+.joypixels-24-nature._1f43a {
     background-position: -2800px 0px;
 }
-.joypixels-24-nature._1f43b {
+.joypixels-24-nature._1f43b-2744 {
     background-position: -2825px 0px;
 }
-.joypixels-24-nature._1f43c {
+.joypixels-24-nature._1f43b {
     background-position: -2850px 0px;
 }
-.joypixels-24-nature._1f43d {
+.joypixels-24-nature._1f43c {
     background-position: -2875px 0px;
 }
-.joypixels-24-nature._1f43e {
+.joypixels-24-nature._1f43d {
     background-position: -2900px 0px;
 }
-.joypixels-24-nature._1f43f {
+.joypixels-24-nature._1f43e {
     background-position: -2925px 0px;
 }
-.joypixels-24-nature._1f490 {
+.joypixels-24-nature._1f43f {
     background-position: -2950px 0px;
 }
-.joypixels-24-nature._1f4a5 {
+.joypixels-24-nature._1f490 {
     background-position: -2975px 0px;
 }
-.joypixels-24-nature._1f4a6 {
+.joypixels-24-nature._1f4a5 {
     background-position: -3000px 0px;
 }
-.joypixels-24-nature._1f4a7 {
+.joypixels-24-nature._1f4a6 {
     background-position: -3025px 0px;
 }
-.joypixels-24-nature._1f4a8 {
+.joypixels-24-nature._1f4a7 {
     background-position: -3050px 0px;
 }
-.joypixels-24-nature._1f4ab {
+.joypixels-24-nature._1f4a8 {
     background-position: -3075px 0px;
 }
-.joypixels-24-nature._1f525 {
+.joypixels-24-nature._1f4ab {
     background-position: -3100px 0px;
 }
-.joypixels-24-nature._1f54a {
+.joypixels-24-nature._1f525 {
     background-position: -3125px 0px;
 }
-.joypixels-24-nature._1f577 {
+.joypixels-24-nature._1f54a {
     background-position: -3150px 0px;
 }
-.joypixels-24-nature._1f578 {
+.joypixels-24-nature._1f577 {
     background-position: -3175px 0px;
 }
-.joypixels-24-nature._1f648 {
+.joypixels-24-nature._1f578 {
     background-position: -3200px 0px;
 }
-.joypixels-24-nature._1f649 {
+.joypixels-24-nature._1f648 {
     background-position: -3225px 0px;
 }
-.joypixels-24-nature._1f64a {
+.joypixels-24-nature._1f649 {
     background-position: -3250px 0px;
 }
-.joypixels-24-nature._1f940 {
+.joypixels-24-nature._1f64a {
     background-position: -3275px 0px;
 }
-.joypixels-24-nature._1f980 {
+.joypixels-24-nature._1f940 {
     background-position: -3300px 0px;
 }
-.joypixels-24-nature._1f981 {
+.joypixels-24-nature._1f980 {
     background-position: -3325px 0px;
 }
-.joypixels-24-nature._1f982 {
+.joypixels-24-nature._1f981 {
     background-position: -3350px 0px;
 }
-.joypixels-24-nature._1f983 {
+.joypixels-24-nature._1f982 {
     background-position: -3375px 0px;
 }
-.joypixels-24-nature._1f984 {
+.joypixels-24-nature._1f983 {
     background-position: -3400px 0px;
 }
-.joypixels-24-nature._1f985 {
+.joypixels-24-nature._1f984 {
     background-position: -3425px 0px;
 }
-.joypixels-24-nature._1f986 {
+.joypixels-24-nature._1f985 {
     background-position: -3450px 0px;
 }
-.joypixels-24-nature._1f987 {
+.joypixels-24-nature._1f986 {
     background-position: -3475px 0px;
 }
-.joypixels-24-nature._1f988 {
+.joypixels-24-nature._1f987 {
     background-position: -3500px 0px;
 }
-.joypixels-24-nature._1f989 {
+.joypixels-24-nature._1f988 {
     background-position: -3525px 0px;
 }
-.joypixels-24-nature._1f98a {
+.joypixels-24-nature._1f989 {
     background-position: -3550px 0px;
 }
-.joypixels-24-nature._1f98b {
+.joypixels-24-nature._1f98a {
     background-position: -3575px 0px;
 }
-.joypixels-24-nature._1f98c {
+.joypixels-24-nature._1f98b {
     background-position: -3600px 0px;
 }
-.joypixels-24-nature._1f98d {
+.joypixels-24-nature._1f98c {
     background-position: -3625px 0px;
 }
-.joypixels-24-nature._1f98e {
+.joypixels-24-nature._1f98d {
     background-position: -3650px 0px;
 }
-.joypixels-24-nature._1f98f {
+.joypixels-24-nature._1f98e {
     background-position: -3675px 0px;
 }
-.joypixels-24-nature._1f990 {
+.joypixels-24-nature._1f98f {
     background-position: -3700px 0px;
 }
-.joypixels-24-nature._1f991 {
+.joypixels-24-nature._1f990 {
     background-position: -3725px 0px;
 }
-.joypixels-24-nature._1f992 {
+.joypixels-24-nature._1f991 {
     background-position: -3750px 0px;
 }
-.joypixels-24-nature._1f993 {
+.joypixels-24-nature._1f992 {
     background-position: -3775px 0px;
 }
-.joypixels-24-nature._1f994 {
+.joypixels-24-nature._1f993 {
     background-position: -3800px 0px;
 }
-.joypixels-24-nature._1f995 {
+.joypixels-24-nature._1f994 {
     background-position: -3825px 0px;
 }
-.joypixels-24-nature._1f996 {
+.joypixels-24-nature._1f995 {
     background-position: -3850px 0px;
 }
-.joypixels-24-nature._1f997 {
+.joypixels-24-nature._1f996 {
     background-position: -3875px 0px;
 }
-.joypixels-24-nature._1f998 {
+.joypixels-24-nature._1f997 {
     background-position: -3900px 0px;
 }
-.joypixels-24-nature._1f999 {
+.joypixels-24-nature._1f998 {
     background-position: -3925px 0px;
 }
-.joypixels-24-nature._1f99a {
+.joypixels-24-nature._1f999 {
     background-position: -3950px 0px;
 }
-.joypixels-24-nature._1f99b {
+.joypixels-24-nature._1f99a {
     background-position: -3975px 0px;
 }
-.joypixels-24-nature._1f99c {
+.joypixels-24-nature._1f99b {
     background-position: -4000px 0px;
 }
-.joypixels-24-nature._1f99d {
+.joypixels-24-nature._1f99c {
     background-position: -4025px 0px;
 }
-.joypixels-24-nature._1f99e {
+.joypixels-24-nature._1f99d {
     background-position: -4050px 0px;
 }
-.joypixels-24-nature._1f99f {
+.joypixels-24-nature._1f99e {
     background-position: -4075px 0px;
 }
-.joypixels-24-nature._1f9a1 {
+.joypixels-24-nature._1f99f {
     background-position: -4100px 0px;
 }
-.joypixels-24-nature._1f9a2 {
+.joypixels-24-nature._1f9a1 {
     background-position: -4125px 0px;
 }
-.joypixels-24-nature._1f9a3 {
+.joypixels-24-nature._1f9a2 {
     background-position: -4150px 0px;
 }
-.joypixels-24-nature._1f9a4 {
+.joypixels-24-nature._1f9a3 {
     background-position: -4175px 0px;
 }
-.joypixels-24-nature._1f9a5 {
+.joypixels-24-nature._1f9a4 {
     background-position: -4200px 0px;
 }
-.joypixels-24-nature._1f9a6 {
+.joypixels-24-nature._1f9a5 {
     background-position: -4225px 0px;
 }
-.joypixels-24-nature._1f9a7 {
+.joypixels-24-nature._1f9a6 {
     background-position: -4250px 0px;
 }
-.joypixels-24-nature._1f9a8 {
+.joypixels-24-nature._1f9a7 {
     background-position: -4275px 0px;
 }
-.joypixels-24-nature._1f9a9 {
+.joypixels-24-nature._1f9a8 {
     background-position: -4300px 0px;
 }
-.joypixels-24-nature._1f9ab {
+.joypixels-24-nature._1f9a9 {
     background-position: -4325px 0px;
 }
-.joypixels-24-nature._1f9ac {
+.joypixels-24-nature._1f9ab {
     background-position: -4350px 0px;
 }
-.joypixels-24-nature._1f9ad {
+.joypixels-24-nature._1f9ac {
     background-position: -4375px 0px;
 }
-.joypixels-24-nature._1f9ae {
+.joypixels-24-nature._1f9ad {
     background-position: -4400px 0px;
 }
-.joypixels-24-nature._1fa90 {
+.joypixels-24-nature._1f9ae {
     background-position: -4425px 0px;
 }
-.joypixels-24-nature._1faa8 {
+.joypixels-24-nature._1fa90 {
     background-position: -4450px 0px;
 }
-.joypixels-24-nature._1fab0 {
+.joypixels-24-nature._1faa8 {
     background-position: -4475px 0px;
 }
-.joypixels-24-nature._1fab1 {
+.joypixels-24-nature._1fab0 {
     background-position: -4500px 0px;
 }
-.joypixels-24-nature._1fab2 {
+.joypixels-24-nature._1fab1 {
     background-position: -4525px 0px;
 }
-.joypixels-24-nature._1fab3 {
+.joypixels-24-nature._1fab2 {
     background-position: -4550px 0px;
 }
-.joypixels-24-nature._1fab4 {
+.joypixels-24-nature._1fab3 {
     background-position: -4575px 0px;
 }
-.joypixels-24-nature._1fab5 {
+.joypixels-24-nature._1fab4 {
     background-position: -4600px 0px;
 }
-.joypixels-24-nature._1fab6 {
+.joypixels-24-nature._1fab5 {
     background-position: -4625px 0px;
 }
-.joypixels-24-nature._1fab7 {
+.joypixels-24-nature._1fab6 {
     background-position: -4650px 0px;
 }
-.joypixels-24-nature._1fab8 {
+.joypixels-24-nature._1fab7 {
     background-position: -4675px 0px;
 }
-.joypixels-24-nature._1fab9 {
+.joypixels-24-nature._1fab8 {
     background-position: -4700px 0px;
 }
-.joypixels-24-nature._1faba {
+.joypixels-24-nature._1fab9 {
     background-position: -4725px 0px;
 }
-.joypixels-24-nature._1fae7 {
+.joypixels-24-nature._1faba {
     background-position: -4750px 0px;
 }
-.joypixels-24-nature._2600 {
+.joypixels-24-nature._1fabb {
     background-position: -4775px 0px;
 }
-.joypixels-24-nature._2601 {
+.joypixels-24-nature._1fabc {
     background-position: -4800px 0px;
 }
-.joypixels-24-nature._2602 {
+.joypixels-24-nature._1fabd {
     background-position: -4825px 0px;
 }
-.joypixels-24-nature._2603 {
+.joypixels-24-nature._1fabf {
     background-position: -4850px 0px;
 }
-.joypixels-24-nature._2604 {
+.joypixels-24-nature._1face {
     background-position: -4875px 0px;
 }
-.joypixels-24-nature._2614 {
+.joypixels-24-nature._1facf {
     background-position: -4900px 0px;
 }
-.joypixels-24-nature._2618 {
+.joypixels-24-nature._1fae7 {
     background-position: -4925px 0px;
 }
-.joypixels-24-nature._26a1 {
+.joypixels-24-nature._2600 {
     background-position: -4950px 0px;
 }
-.joypixels-24-nature._26c4 {
+.joypixels-24-nature._2601 {
     background-position: -4975px 0px;
 }
-.joypixels-24-nature._26c5 {
+.joypixels-24-nature._2602 {
     background-position: -5000px 0px;
 }
-.joypixels-24-nature._26c8 {
+.joypixels-24-nature._2603 {
     background-position: -5025px 0px;
 }
-.joypixels-24-nature._2728 {
+.joypixels-24-nature._2604 {
     background-position: -5050px 0px;
 }
-.joypixels-24-nature._2744 {
+.joypixels-24-nature._2614 {
     background-position: -5075px 0px;
 }
-.joypixels-24-nature._2b50 {
+.joypixels-24-nature._2618 {
     background-position: -5100px 0px;
+}
+.joypixels-24-nature._26a1 {
+    background-position: -5125px 0px;
+}
+.joypixels-24-nature._26c4 {
+    background-position: -5150px 0px;
+}
+.joypixels-24-nature._26c5 {
+    background-position: -5175px 0px;
+}
+.joypixels-24-nature._26c8 {
+    background-position: -5200px 0px;
+}
+.joypixels-24-nature._2728 {
+    background-position: -5225px 0px;
+}
+.joypixels-24-nature._2744 {
+    background-position: -5250px 0px;
+}
+.joypixels-24-nature._2b50 {
+    background-position: -5275px 0px;
 }
 
 .joypixels-24-food {
@@ -2146,7 +2176,7 @@
 {
     .joypixels-24-food {
         background-image: url(joypixels-sprite-24-food@2x.png);
-        background-size: 3174px 24px;
+        background-size: 3224px 24px;
     }
 }
 
@@ -2529,8 +2559,14 @@
 .joypixels-24-food._1fad9 {
     background-position: -3125px 0px;
 }
-.joypixels-24-food._2615 {
+.joypixels-24-food._1fada {
     background-position: -3150px 0px;
+}
+.joypixels-24-food._1fadb {
+    background-position: -3175px 0px;
+}
+.joypixels-24-food._2615 {
+    background-position: -3200px 0px;
 }
 
 .joypixels-24-activity {
@@ -2553,7 +2589,7 @@
 {
     .joypixels-24-activity {
         background-image: url(joypixels-sprite-24-activity@2x.png);
-        background-size: 2974px 24px;
+        background-size: 3024px 24px;
     }
 }
 
@@ -2879,41 +2915,47 @@
 .joypixels-24-activity._1fa83 {
     background-position: -2650px 0px;
 }
-.joypixels-24-activity._1fa95 {
+.joypixels-24-activity._1fa87 {
     background-position: -2675px 0px;
 }
-.joypixels-24-activity._1fa97 {
+.joypixels-24-activity._1fa88 {
     background-position: -2700px 0px;
 }
-.joypixels-24-activity._1fa98 {
+.joypixels-24-activity._1fa95 {
     background-position: -2725px 0px;
 }
-.joypixels-24-activity._265f {
+.joypixels-24-activity._1fa97 {
     background-position: -2750px 0px;
 }
-.joypixels-24-activity._26bd {
+.joypixels-24-activity._1fa98 {
     background-position: -2775px 0px;
 }
-.joypixels-24-activity._26be {
+.joypixels-24-activity._265f {
     background-position: -2800px 0px;
 }
-.joypixels-24-activity._26f3 {
+.joypixels-24-activity._26bd {
     background-position: -2825px 0px;
 }
-.joypixels-24-activity._26f7 {
+.joypixels-24-activity._26be {
     background-position: -2850px 0px;
 }
-.joypixels-24-activity._26f8 {
+.joypixels-24-activity._26f3 {
     background-position: -2875px 0px;
 }
-.joypixels-24-activity._26f9-2640 {
+.joypixels-24-activity._26f7 {
     background-position: -2900px 0px;
 }
-.joypixels-24-activity._26f9-2642 {
+.joypixels-24-activity._26f8 {
     background-position: -2925px 0px;
 }
-.joypixels-24-activity._26f9 {
+.joypixels-24-activity._26f9-2640 {
     background-position: -2950px 0px;
+}
+.joypixels-24-activity._26f9-2642 {
+    background-position: -2975px 0px;
+}
+.joypixels-24-activity._26f9 {
+    background-position: -3000px 0px;
 }
 
 .joypixels-24-travel {
@@ -3358,7 +3400,7 @@
 {
     .joypixels-24-objects {
         background-image: url(joypixels-sprite-24-objects@2x.png);
-        background-size: 5574px 24px;
+        background-size: 5624px 24px;
     }
 }
 
@@ -3969,68 +4011,74 @@
 .joypixels-24-objects._1faac {
     background-position: -5025px 0px;
 }
-.joypixels-24-objects._231a {
+.joypixels-24-objects._1faad {
     background-position: -5050px 0px;
 }
-.joypixels-24-objects._231b {
+.joypixels-24-objects._1faae {
     background-position: -5075px 0px;
 }
-.joypixels-24-objects._2328 {
+.joypixels-24-objects._231a {
     background-position: -5100px 0px;
 }
-.joypixels-24-objects._23f0 {
+.joypixels-24-objects._231b {
     background-position: -5125px 0px;
 }
-.joypixels-24-objects._23f1 {
+.joypixels-24-objects._2328 {
     background-position: -5150px 0px;
 }
-.joypixels-24-objects._23f2 {
+.joypixels-24-objects._23f0 {
     background-position: -5175px 0px;
 }
-.joypixels-24-objects._23f3 {
+.joypixels-24-objects._23f1 {
     background-position: -5200px 0px;
 }
-.joypixels-24-objects._260e {
+.joypixels-24-objects._23f2 {
     background-position: -5225px 0px;
 }
-.joypixels-24-objects._2692 {
+.joypixels-24-objects._23f3 {
     background-position: -5250px 0px;
 }
-.joypixels-24-objects._2694 {
+.joypixels-24-objects._260e {
     background-position: -5275px 0px;
 }
-.joypixels-24-objects._2696 {
+.joypixels-24-objects._2692 {
     background-position: -5300px 0px;
 }
-.joypixels-24-objects._2697 {
+.joypixels-24-objects._2694 {
     background-position: -5325px 0px;
 }
-.joypixels-24-objects._2699 {
+.joypixels-24-objects._2696 {
     background-position: -5350px 0px;
 }
-.joypixels-24-objects._26b0 {
+.joypixels-24-objects._2697 {
     background-position: -5375px 0px;
 }
-.joypixels-24-objects._26b1 {
+.joypixels-24-objects._2699 {
     background-position: -5400px 0px;
 }
-.joypixels-24-objects._26cf {
+.joypixels-24-objects._26b0 {
     background-position: -5425px 0px;
 }
-.joypixels-24-objects._26d3 {
+.joypixels-24-objects._26b1 {
     background-position: -5450px 0px;
 }
-.joypixels-24-objects._2702 {
+.joypixels-24-objects._26cf {
     background-position: -5475px 0px;
 }
-.joypixels-24-objects._2709 {
+.joypixels-24-objects._26d3 {
     background-position: -5500px 0px;
 }
-.joypixels-24-objects._270f {
+.joypixels-24-objects._2702 {
     background-position: -5525px 0px;
 }
-.joypixels-24-objects._2712 {
+.joypixels-24-objects._2709 {
     background-position: -5550px 0px;
+}
+.joypixels-24-objects._270f {
+    background-position: -5575px 0px;
+}
+.joypixels-24-objects._2712 {
+    background-position: -5600px 0px;
 }
 
 .joypixels-24-symbols {
@@ -4053,7 +4101,7 @@
 {
     .joypixels-24-symbols {
         background-image: url(joypixels-sprite-24-symbols@2x.png);
-        background-size: 7749px 24px;
+        background-size: 7874px 24px;
     }
 }
 
@@ -4619,374 +4667,389 @@
 .joypixels-24-symbols._1f6d7 {
     background-position: -4650px 0px;
 }
-.joypixels-24-symbols._1f7e0 {
+.joypixels-24-symbols._1f6dc {
     background-position: -4675px 0px;
 }
-.joypixels-24-symbols._1f7e1 {
+.joypixels-24-symbols._1f7e0 {
     background-position: -4700px 0px;
 }
-.joypixels-24-symbols._1f7e2 {
+.joypixels-24-symbols._1f7e1 {
     background-position: -4725px 0px;
 }
-.joypixels-24-symbols._1f7e3 {
+.joypixels-24-symbols._1f7e2 {
     background-position: -4750px 0px;
 }
-.joypixels-24-symbols._1f7e4 {
+.joypixels-24-symbols._1f7e3 {
     background-position: -4775px 0px;
 }
-.joypixels-24-symbols._1f7e5 {
+.joypixels-24-symbols._1f7e4 {
     background-position: -4800px 0px;
 }
-.joypixels-24-symbols._1f7e6 {
+.joypixels-24-symbols._1f7e5 {
     background-position: -4825px 0px;
 }
-.joypixels-24-symbols._1f7e7 {
+.joypixels-24-symbols._1f7e6 {
     background-position: -4850px 0px;
 }
-.joypixels-24-symbols._1f7e8 {
+.joypixels-24-symbols._1f7e7 {
     background-position: -4875px 0px;
 }
-.joypixels-24-symbols._1f7e9 {
+.joypixels-24-symbols._1f7e8 {
     background-position: -4900px 0px;
 }
-.joypixels-24-symbols._1f7ea {
+.joypixels-24-symbols._1f7e9 {
     background-position: -4925px 0px;
 }
-.joypixels-24-symbols._1f7eb {
+.joypixels-24-symbols._1f7ea {
     background-position: -4950px 0px;
 }
-.joypixels-24-symbols._1f7f0 {
+.joypixels-24-symbols._1f7eb {
     background-position: -4975px 0px;
 }
-.joypixels-24-symbols._1f90d {
+.joypixels-24-symbols._1f7f0 {
     background-position: -5000px 0px;
 }
-.joypixels-24-symbols._1f90e {
+.joypixels-24-symbols._1f90d {
     background-position: -5025px 0px;
 }
-.joypixels-24-symbols._1f9e1 {
+.joypixels-24-symbols._1f90e {
     background-position: -5050px 0px;
 }
-.joypixels-24-symbols._203c {
+.joypixels-24-symbols._1f9e1 {
     background-position: -5075px 0px;
 }
-.joypixels-24-symbols._2049 {
+.joypixels-24-symbols._1fa75 {
     background-position: -5100px 0px;
 }
-.joypixels-24-symbols._2122 {
+.joypixels-24-symbols._1fa76 {
     background-position: -5125px 0px;
 }
-.joypixels-24-symbols._2139 {
+.joypixels-24-symbols._1fa77 {
     background-position: -5150px 0px;
 }
-.joypixels-24-symbols._2194 {
+.joypixels-24-symbols._1faaf {
     background-position: -5175px 0px;
 }
-.joypixels-24-symbols._2195 {
+.joypixels-24-symbols._203c {
     background-position: -5200px 0px;
 }
-.joypixels-24-symbols._2196 {
+.joypixels-24-symbols._2049 {
     background-position: -5225px 0px;
 }
-.joypixels-24-symbols._2197 {
+.joypixels-24-symbols._2122 {
     background-position: -5250px 0px;
 }
-.joypixels-24-symbols._2198 {
+.joypixels-24-symbols._2139 {
     background-position: -5275px 0px;
 }
-.joypixels-24-symbols._2199 {
+.joypixels-24-symbols._2194 {
     background-position: -5300px 0px;
 }
-.joypixels-24-symbols._21a9 {
+.joypixels-24-symbols._2195 {
     background-position: -5325px 0px;
 }
-.joypixels-24-symbols._21aa {
+.joypixels-24-symbols._2196 {
     background-position: -5350px 0px;
 }
-.joypixels-24-symbols._23cf {
+.joypixels-24-symbols._2197 {
     background-position: -5375px 0px;
 }
-.joypixels-24-symbols._23e9 {
+.joypixels-24-symbols._2198 {
     background-position: -5400px 0px;
 }
-.joypixels-24-symbols._23ea {
+.joypixels-24-symbols._2199 {
     background-position: -5425px 0px;
 }
-.joypixels-24-symbols._23eb {
+.joypixels-24-symbols._21a9 {
     background-position: -5450px 0px;
 }
-.joypixels-24-symbols._23ec {
+.joypixels-24-symbols._21aa {
     background-position: -5475px 0px;
 }
-.joypixels-24-symbols._23ed {
+.joypixels-24-symbols._23cf {
     background-position: -5500px 0px;
 }
-.joypixels-24-symbols._23ee {
+.joypixels-24-symbols._23e9 {
     background-position: -5525px 0px;
 }
-.joypixels-24-symbols._23ef {
+.joypixels-24-symbols._23ea {
     background-position: -5550px 0px;
 }
-.joypixels-24-symbols._23f8 {
+.joypixels-24-symbols._23eb {
     background-position: -5575px 0px;
 }
-.joypixels-24-symbols._23f9 {
+.joypixels-24-symbols._23ec {
     background-position: -5600px 0px;
 }
-.joypixels-24-symbols._23fa {
+.joypixels-24-symbols._23ed {
     background-position: -5625px 0px;
 }
-.joypixels-24-symbols._24c2 {
+.joypixels-24-symbols._23ee {
     background-position: -5650px 0px;
 }
-.joypixels-24-symbols._25aa {
+.joypixels-24-symbols._23ef {
     background-position: -5675px 0px;
 }
-.joypixels-24-symbols._25ab {
+.joypixels-24-symbols._23f8 {
     background-position: -5700px 0px;
 }
-.joypixels-24-symbols._25b6 {
+.joypixels-24-symbols._23f9 {
     background-position: -5725px 0px;
 }
-.joypixels-24-symbols._25c0 {
+.joypixels-24-symbols._23fa {
     background-position: -5750px 0px;
 }
-.joypixels-24-symbols._25fb {
+.joypixels-24-symbols._24c2 {
     background-position: -5775px 0px;
 }
-.joypixels-24-symbols._25fc {
+.joypixels-24-symbols._25aa {
     background-position: -5800px 0px;
 }
-.joypixels-24-symbols._25fd {
+.joypixels-24-symbols._25ab {
     background-position: -5825px 0px;
 }
-.joypixels-24-symbols._25fe {
+.joypixels-24-symbols._25b6 {
     background-position: -5850px 0px;
 }
-.joypixels-24-symbols._2611 {
+.joypixels-24-symbols._25c0 {
     background-position: -5875px 0px;
 }
-.joypixels-24-symbols._2622 {
+.joypixels-24-symbols._25fb {
     background-position: -5900px 0px;
 }
-.joypixels-24-symbols._2623 {
+.joypixels-24-symbols._25fc {
     background-position: -5925px 0px;
 }
-.joypixels-24-symbols._2626 {
+.joypixels-24-symbols._25fd {
     background-position: -5950px 0px;
 }
-.joypixels-24-symbols._262a {
+.joypixels-24-symbols._25fe {
     background-position: -5975px 0px;
 }
-.joypixels-24-symbols._262e {
+.joypixels-24-symbols._2611 {
     background-position: -6000px 0px;
 }
-.joypixels-24-symbols._262f {
+.joypixels-24-symbols._2622 {
     background-position: -6025px 0px;
 }
-.joypixels-24-symbols._2638 {
+.joypixels-24-symbols._2623 {
     background-position: -6050px 0px;
 }
-.joypixels-24-symbols._2640 {
+.joypixels-24-symbols._2626 {
     background-position: -6075px 0px;
 }
-.joypixels-24-symbols._2642 {
+.joypixels-24-symbols._262a {
     background-position: -6100px 0px;
 }
-.joypixels-24-symbols._2648 {
+.joypixels-24-symbols._262e {
     background-position: -6125px 0px;
 }
-.joypixels-24-symbols._2649 {
+.joypixels-24-symbols._262f {
     background-position: -6150px 0px;
 }
-.joypixels-24-symbols._264a {
+.joypixels-24-symbols._2638 {
     background-position: -6175px 0px;
 }
-.joypixels-24-symbols._264b {
+.joypixels-24-symbols._2640 {
     background-position: -6200px 0px;
 }
-.joypixels-24-symbols._264c {
+.joypixels-24-symbols._2642 {
     background-position: -6225px 0px;
 }
-.joypixels-24-symbols._264d {
+.joypixels-24-symbols._2648 {
     background-position: -6250px 0px;
 }
-.joypixels-24-symbols._264e {
+.joypixels-24-symbols._2649 {
     background-position: -6275px 0px;
 }
-.joypixels-24-symbols._264f {
+.joypixels-24-symbols._264a {
     background-position: -6300px 0px;
 }
-.joypixels-24-symbols._2650 {
+.joypixels-24-symbols._264b {
     background-position: -6325px 0px;
 }
-.joypixels-24-symbols._2651 {
+.joypixels-24-symbols._264c {
     background-position: -6350px 0px;
 }
-.joypixels-24-symbols._2652 {
+.joypixels-24-symbols._264d {
     background-position: -6375px 0px;
 }
-.joypixels-24-symbols._2653 {
+.joypixels-24-symbols._264e {
     background-position: -6400px 0px;
 }
-.joypixels-24-symbols._2660 {
+.joypixels-24-symbols._264f {
     background-position: -6425px 0px;
 }
-.joypixels-24-symbols._2663 {
+.joypixels-24-symbols._2650 {
     background-position: -6450px 0px;
 }
-.joypixels-24-symbols._2665 {
+.joypixels-24-symbols._2651 {
     background-position: -6475px 0px;
 }
-.joypixels-24-symbols._2666 {
+.joypixels-24-symbols._2652 {
     background-position: -6500px 0px;
 }
-.joypixels-24-symbols._2668 {
+.joypixels-24-symbols._2653 {
     background-position: -6525px 0px;
 }
-.joypixels-24-symbols._267b {
+.joypixels-24-symbols._2660 {
     background-position: -6550px 0px;
 }
-.joypixels-24-symbols._267e {
+.joypixels-24-symbols._2663 {
     background-position: -6575px 0px;
 }
-.joypixels-24-symbols._267f {
+.joypixels-24-symbols._2665 {
     background-position: -6600px 0px;
 }
-.joypixels-24-symbols._2695 {
+.joypixels-24-symbols._2666 {
     background-position: -6625px 0px;
 }
-.joypixels-24-symbols._269b {
+.joypixels-24-symbols._2668 {
     background-position: -6650px 0px;
 }
-.joypixels-24-symbols._269c {
+.joypixels-24-symbols._267b {
     background-position: -6675px 0px;
 }
-.joypixels-24-symbols._26a0 {
+.joypixels-24-symbols._267e {
     background-position: -6700px 0px;
 }
-.joypixels-24-symbols._26a7 {
+.joypixels-24-symbols._267f {
     background-position: -6725px 0px;
 }
-.joypixels-24-symbols._26aa {
+.joypixels-24-symbols._2695 {
     background-position: -6750px 0px;
 }
-.joypixels-24-symbols._26ab {
+.joypixels-24-symbols._269b {
     background-position: -6775px 0px;
 }
-.joypixels-24-symbols._26ce {
+.joypixels-24-symbols._269c {
     background-position: -6800px 0px;
 }
-.joypixels-24-symbols._26d4 {
+.joypixels-24-symbols._26a0 {
     background-position: -6825px 0px;
 }
-.joypixels-24-symbols._2705 {
+.joypixels-24-symbols._26a7 {
     background-position: -6850px 0px;
 }
-.joypixels-24-symbols._2714 {
+.joypixels-24-symbols._26aa {
     background-position: -6875px 0px;
 }
-.joypixels-24-symbols._2716 {
+.joypixels-24-symbols._26ab {
     background-position: -6900px 0px;
 }
-.joypixels-24-symbols._271d {
+.joypixels-24-symbols._26ce {
     background-position: -6925px 0px;
 }
-.joypixels-24-symbols._2721 {
+.joypixels-24-symbols._26d4 {
     background-position: -6950px 0px;
 }
-.joypixels-24-symbols._2733 {
+.joypixels-24-symbols._2705 {
     background-position: -6975px 0px;
 }
-.joypixels-24-symbols._2734 {
+.joypixels-24-symbols._2714 {
     background-position: -7000px 0px;
 }
-.joypixels-24-symbols._2747 {
+.joypixels-24-symbols._2716 {
     background-position: -7025px 0px;
 }
-.joypixels-24-symbols._274c {
+.joypixels-24-symbols._271d {
     background-position: -7050px 0px;
 }
-.joypixels-24-symbols._274e {
+.joypixels-24-symbols._2721 {
     background-position: -7075px 0px;
 }
-.joypixels-24-symbols._2753 {
+.joypixels-24-symbols._2733 {
     background-position: -7100px 0px;
 }
-.joypixels-24-symbols._2754 {
+.joypixels-24-symbols._2734 {
     background-position: -7125px 0px;
 }
-.joypixels-24-symbols._2755 {
+.joypixels-24-symbols._2747 {
     background-position: -7150px 0px;
 }
-.joypixels-24-symbols._2757 {
+.joypixels-24-symbols._274c {
     background-position: -7175px 0px;
 }
-.joypixels-24-symbols._2763 {
+.joypixels-24-symbols._274e {
     background-position: -7200px 0px;
 }
-.joypixels-24-symbols._2764-1f525 {
+.joypixels-24-symbols._2753 {
     background-position: -7225px 0px;
 }
-.joypixels-24-symbols._2764-1fa79 {
+.joypixels-24-symbols._2754 {
     background-position: -7250px 0px;
 }
-.joypixels-24-symbols._2764 {
+.joypixels-24-symbols._2755 {
     background-position: -7275px 0px;
 }
-.joypixels-24-symbols._2795 {
+.joypixels-24-symbols._2757 {
     background-position: -7300px 0px;
 }
-.joypixels-24-symbols._2796 {
+.joypixels-24-symbols._2763 {
     background-position: -7325px 0px;
 }
-.joypixels-24-symbols._2797 {
+.joypixels-24-symbols._2764-1f525 {
     background-position: -7350px 0px;
 }
-.joypixels-24-symbols._27a1 {
+.joypixels-24-symbols._2764-1fa79 {
     background-position: -7375px 0px;
 }
-.joypixels-24-symbols._27b0 {
+.joypixels-24-symbols._2764 {
     background-position: -7400px 0px;
 }
-.joypixels-24-symbols._27bf {
+.joypixels-24-symbols._2795 {
     background-position: -7425px 0px;
 }
-.joypixels-24-symbols._2934 {
+.joypixels-24-symbols._2796 {
     background-position: -7450px 0px;
 }
-.joypixels-24-symbols._2935 {
+.joypixels-24-symbols._2797 {
     background-position: -7475px 0px;
 }
-.joypixels-24-symbols._2b05 {
+.joypixels-24-symbols._27a1 {
     background-position: -7500px 0px;
 }
-.joypixels-24-symbols._2b06 {
+.joypixels-24-symbols._27b0 {
     background-position: -7525px 0px;
 }
-.joypixels-24-symbols._2b07 {
+.joypixels-24-symbols._27bf {
     background-position: -7550px 0px;
 }
-.joypixels-24-symbols._2b1b {
+.joypixels-24-symbols._2934 {
     background-position: -7575px 0px;
 }
-.joypixels-24-symbols._2b1c {
+.joypixels-24-symbols._2935 {
     background-position: -7600px 0px;
 }
-.joypixels-24-symbols._2b55 {
+.joypixels-24-symbols._2b05 {
     background-position: -7625px 0px;
 }
-.joypixels-24-symbols._3030 {
+.joypixels-24-symbols._2b06 {
     background-position: -7650px 0px;
 }
-.joypixels-24-symbols._303d {
+.joypixels-24-symbols._2b07 {
     background-position: -7675px 0px;
 }
-.joypixels-24-symbols._3297 {
+.joypixels-24-symbols._2b1b {
     background-position: -7700px 0px;
 }
-.joypixels-24-symbols._3299 {
+.joypixels-24-symbols._2b1c {
     background-position: -7725px 0px;
+}
+.joypixels-24-symbols._2b55 {
+    background-position: -7750px 0px;
+}
+.joypixels-24-symbols._3030 {
+    background-position: -7775px 0px;
+}
+.joypixels-24-symbols._303d {
+    background-position: -7800px 0px;
+}
+.joypixels-24-symbols._3297 {
+    background-position: -7825px 0px;
+}
+.joypixels-24-symbols._3299 {
+    background-position: -7850px 0px;
 }
 
 .joypixels-24-flags {
@@ -11177,123 +11240,153 @@
 .joypixels-24-diversity._1faf6-1f3ff {
     background-position: -450px -1025px;
 }
-.joypixels-24-diversity._261d-1f3fb {
+.joypixels-24-diversity._1faf7-1f3fb {
     background-position: -475px -1025px;
 }
-.joypixels-24-diversity._261d-1f3fc {
+.joypixels-24-diversity._1faf7-1f3fc {
     background-position: -500px -1025px;
 }
-.joypixels-24-diversity._261d-1f3fd {
+.joypixels-24-diversity._1faf7-1f3fd {
     background-position: -525px -1025px;
 }
-.joypixels-24-diversity._261d-1f3fe {
+.joypixels-24-diversity._1faf7-1f3fe {
     background-position: -550px -1025px;
 }
-.joypixels-24-diversity._261d-1f3ff {
+.joypixels-24-diversity._1faf7-1f3ff {
     background-position: -575px -1025px;
 }
-.joypixels-24-diversity._26f9-1f3fb-2640 {
+.joypixels-24-diversity._1faf8-1f3fb {
     background-position: -600px -1025px;
 }
-.joypixels-24-diversity._26f9-1f3fb-2642 {
+.joypixels-24-diversity._1faf8-1f3fc {
     background-position: -625px -1025px;
 }
-.joypixels-24-diversity._26f9-1f3fb {
+.joypixels-24-diversity._1faf8-1f3fd {
     background-position: -650px -1025px;
 }
-.joypixels-24-diversity._26f9-1f3fc-2640 {
+.joypixels-24-diversity._1faf8-1f3fe {
     background-position: -675px -1025px;
 }
-.joypixels-24-diversity._26f9-1f3fc-2642 {
+.joypixels-24-diversity._1faf8-1f3ff {
     background-position: -700px -1025px;
 }
-.joypixels-24-diversity._26f9-1f3fc {
+.joypixels-24-diversity._261d-1f3fb {
     background-position: -725px -1025px;
 }
-.joypixels-24-diversity._26f9-1f3fd-2640 {
+.joypixels-24-diversity._261d-1f3fc {
     background-position: -750px -1025px;
 }
-.joypixels-24-diversity._26f9-1f3fd-2642 {
+.joypixels-24-diversity._261d-1f3fd {
     background-position: -775px -1025px;
 }
-.joypixels-24-diversity._26f9-1f3fd {
+.joypixels-24-diversity._261d-1f3fe {
     background-position: -800px -1025px;
 }
-.joypixels-24-diversity._26f9-1f3fe-2640 {
+.joypixels-24-diversity._261d-1f3ff {
     background-position: -825px -1025px;
 }
-.joypixels-24-diversity._26f9-1f3fe-2642 {
+.joypixels-24-diversity._26f9-1f3fb-2640 {
     background-position: -850px -1025px;
 }
-.joypixels-24-diversity._26f9-1f3fe {
+.joypixels-24-diversity._26f9-1f3fb-2642 {
     background-position: -875px -1025px;
 }
-.joypixels-24-diversity._26f9-1f3ff-2640 {
+.joypixels-24-diversity._26f9-1f3fb {
     background-position: -900px -1025px;
 }
-.joypixels-24-diversity._26f9-1f3ff-2642 {
+.joypixels-24-diversity._26f9-1f3fc-2640 {
     background-position: -925px -1025px;
 }
-.joypixels-24-diversity._26f9-1f3ff {
+.joypixels-24-diversity._26f9-1f3fc-2642 {
     background-position: -950px -1025px;
 }
-.joypixels-24-diversity._270a-1f3fb {
+.joypixels-24-diversity._26f9-1f3fc {
     background-position: -975px -1025px;
 }
-.joypixels-24-diversity._270a-1f3fc {
+.joypixels-24-diversity._26f9-1f3fd-2640 {
     background-position: -1000px -1025px;
 }
-.joypixels-24-diversity._270a-1f3fd {
+.joypixels-24-diversity._26f9-1f3fd-2642 {
     background-position: -1025px -1025px;
 }
-.joypixels-24-diversity._270a-1f3fe {
+.joypixels-24-diversity._26f9-1f3fd {
     background-position: -1050px 0px;
 }
-.joypixels-24-diversity._270a-1f3ff {
+.joypixels-24-diversity._26f9-1f3fe-2640 {
     background-position: -1050px -25px;
 }
-.joypixels-24-diversity._270b-1f3fb {
+.joypixels-24-diversity._26f9-1f3fe-2642 {
     background-position: -1050px -50px;
 }
-.joypixels-24-diversity._270b-1f3fc {
+.joypixels-24-diversity._26f9-1f3fe {
     background-position: -1050px -75px;
 }
-.joypixels-24-diversity._270b-1f3fd {
+.joypixels-24-diversity._26f9-1f3ff-2640 {
     background-position: -1050px -100px;
 }
-.joypixels-24-diversity._270b-1f3fe {
+.joypixels-24-diversity._26f9-1f3ff-2642 {
     background-position: -1050px -125px;
 }
-.joypixels-24-diversity._270b-1f3ff {
+.joypixels-24-diversity._26f9-1f3ff {
     background-position: -1050px -150px;
 }
-.joypixels-24-diversity._270c-1f3fb {
+.joypixels-24-diversity._270a-1f3fb {
     background-position: -1050px -175px;
 }
-.joypixels-24-diversity._270c-1f3fc {
+.joypixels-24-diversity._270a-1f3fc {
     background-position: -1050px -200px;
 }
-.joypixels-24-diversity._270c-1f3fd {
+.joypixels-24-diversity._270a-1f3fd {
     background-position: -1050px -225px;
 }
-.joypixels-24-diversity._270c-1f3fe {
+.joypixels-24-diversity._270a-1f3fe {
     background-position: -1050px -250px;
 }
-.joypixels-24-diversity._270c-1f3ff {
+.joypixels-24-diversity._270a-1f3ff {
     background-position: -1050px -275px;
 }
-.joypixels-24-diversity._270d-1f3fb {
+.joypixels-24-diversity._270b-1f3fb {
     background-position: -1050px -300px;
 }
-.joypixels-24-diversity._270d-1f3fc {
+.joypixels-24-diversity._270b-1f3fc {
     background-position: -1050px -325px;
 }
-.joypixels-24-diversity._270d-1f3fd {
+.joypixels-24-diversity._270b-1f3fd {
     background-position: -1050px -350px;
 }
-.joypixels-24-diversity._270d-1f3fe {
+.joypixels-24-diversity._270b-1f3fe {
     background-position: -1050px -375px;
 }
-.joypixels-24-diversity._270d-1f3ff {
+.joypixels-24-diversity._270b-1f3ff {
     background-position: -1050px -400px;
+}
+.joypixels-24-diversity._270c-1f3fb {
+    background-position: -1050px -425px;
+}
+.joypixels-24-diversity._270c-1f3fc {
+    background-position: -1050px -450px;
+}
+.joypixels-24-diversity._270c-1f3fd {
+    background-position: -1050px -475px;
+}
+.joypixels-24-diversity._270c-1f3fe {
+    background-position: -1050px -500px;
+}
+.joypixels-24-diversity._270c-1f3ff {
+    background-position: -1050px -525px;
+}
+.joypixels-24-diversity._270d-1f3fb {
+    background-position: -1050px -550px;
+}
+.joypixels-24-diversity._270d-1f3fc {
+    background-position: -1050px -575px;
+}
+.joypixels-24-diversity._270d-1f3fd {
+    background-position: -1050px -600px;
+}
+.joypixels-24-diversity._270d-1f3fe {
+    background-position: -1050px -625px;
+}
+.joypixels-24-diversity._270d-1f3ff {
+    background-position: -1050px -650px;
 }
